@@ -1,2 +1,2 @@
 # XAUUSD-Forex
-Trader bot for XAUUSD
+A trader bot for XAUUSD
